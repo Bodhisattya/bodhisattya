@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Hi, welcome to my blog.
+
+I will add as I go, so please watch this space for more.
 
 You can use the [editor on GitHub](https://github.com/Bodhisattya/bodhisattya/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
