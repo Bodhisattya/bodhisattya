@@ -1,3 +1,3 @@
-## Hi, welcome to my blog.
+## Hi, I am Bodhisattya.
 
-I will add as I go, so please watch this space for more.
+I take interest in technology, scientific marketing, finance and leadership.
